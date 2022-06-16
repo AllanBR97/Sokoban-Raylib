@@ -1,0 +1,1 @@
+C:\Users\allan\source\repos\Sokoban_raylib\Sokoban_raylib\x64\Debug\Sokoban_raylib.vcxproj.CopyComplete
